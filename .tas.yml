@@ -1,0 +1,15 @@
+framework: mocha
+preRun:
+  command:
+    - yarn install
+    - yarn run build-all
+preMerge:
+  pattern:
+    - "./packages/**/*.spec.ts"
+postMerge:
+  pattern: 
+    - "./packages/**/*.spec.ts"
+postRun:
+  command:
+    - node --version
+version: 1.0
