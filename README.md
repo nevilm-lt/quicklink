@@ -1,3 +1,5 @@
+![Badge](https://stage-badge-tas.lambdatestinternal.com/tas/tests/github/arjun-rathi/rheostat/master)
+
 <p align="center">
   <img src="https://i.imgur.com/NVRZLHv.png" width="640" alt="quicklink">
   <br>
