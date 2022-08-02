@@ -1,5 +1,6 @@
 ![Badge](https://stage-badge-tas.lambdatestinternal.com/tas/tests/github/arjun-rathi/rheostat/master)
-<a href="----"><img src="https://stage-badge-tas.lambdatestinternal.com/tas/tests/github/arjun-rathi/rheostat/master" alt="tas"></a>
+![npm](https://img.shields.io/npm/v/quicklink.svg?style=flat)
+
 <p align="center">
   <img src="https://i.imgur.com/NVRZLHv.png" width="640" alt="quicklink">
   <br>
