@@ -1,5 +1,4 @@
 ![Badge](https://stage-badge-tas.lambdatestinternal.com/tas/tests/github/TasCloud/jest-demos/master)
-<img src="https://stage-badge-tas.lambdatestinternal.com/tas/tests/github/arjun-rathi/rheostat/master" width="640" alt="quicklink">
 https://stage-badge-tas.lambdatestinternal.com/tas/tests/github/arjun-rathi/rheostat/master
 
 <p align="center">
