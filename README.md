@@ -1,4 +1,4 @@
-![Badge](https://stage-badge-tas.lambdatestinternal.com/tas/tests/github/TasCloud/jest-demos/master)
+![Badge](https://stage-badge-tas.lambdatestinternal.com/tas/tests?provider=github&org=TasCloud&repo=jest-demos&branch=master)
 
 <p align="center">
   <img src="https://i.imgur.com/NVRZLHv.png" width="640" alt="quicklink">
